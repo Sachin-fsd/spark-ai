@@ -84,11 +84,8 @@ This is a personal AI assistant that allows users to control their computer and 
 
 ## Contributing
 
-(Optional) If you plan to share your project, you can add a section on how others can contribute.
+contributons are welcome
 
-## License
-
-(Optional) Specify the license under which your project is distributed.
 
 ---
 
